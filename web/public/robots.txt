@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://github.com/komaRepo/codex-helper/sitemap.xml
